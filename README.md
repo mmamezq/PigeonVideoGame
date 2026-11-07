@@ -1,6 +1,6 @@
 # Pigeon Game
 
-A pigeon video game created together by Monica and her husband.
+A pigeon video game created together by Monica and Edoardo.
 
 ## Project structure
 
