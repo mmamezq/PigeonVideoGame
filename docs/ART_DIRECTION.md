@@ -5,7 +5,7 @@
 - Cute, warm, and storybook-medieval
 - Isometric towns that feel small, cozy, and full of life
 - Funny and expressive characters who can also carry emotional moments
-- Art style to decide: pixel art or hand-drawn
+- Art direction: painterly storybook fantasy character sheets and isometric scene panels
 
 ## References
 
@@ -51,6 +51,10 @@ Draft, AI-assisted (Microsoft Designer). The sheet shows the hero after his
 exile, without his armor: turnaround, head studies, expressions, action poses,
 details, a palette, and in-game isometric mockups.
 
+These are strong exploratory reference sheets and represent the actual visual
+language we want to pursue: polished, painterly, storybook fantasy art with
+isometric framing. The goal is a warm, expressive, illustrated world with readable poses, clear silhouettes, and medieval charm.
+
 What works:
 
 - The round, proud Modena silhouette is distinctive and cute.
@@ -59,8 +63,8 @@ What works:
 - The palette (near-black, plum, teal, rust, bronze, warm gray) is cohesive.
 - Blue-and-gold banners match Modena's real yellow-and-blue city colors.
 - Coo and Turn poses read well, helped by sound lines and a motion arrow.
-- The painterly isometric mockups suggest a hand-drawn direction rather than
-  pixel art.
+- The isometric mockups are excellent for testing silhouette and readability,
+  and they match the intended illustrated isometric presentation.
 - The idea of armor as champion status gives a visual story beat: armored
   before the fall, bare during the journey ("Same presence. Different
   armor.").

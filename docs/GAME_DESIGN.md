@@ -7,10 +7,10 @@
 
 ## High concept
 
-A cute, heartfelt isometric RPG about a disgraced Modena pigeon knight. After
-losing his place in the roost, he travels from town to town, fights other
-birds, relearns the lost art of pigeon displays (puffing, cooing, turning), and
-earns a rematch with the rival who beat him.
+A cute, heartfelt isometric RPG about a disgraced Modena pigeon
+knight. After losing his place in the roost, he travels from town to town,
+fights other birds, relearns the lost art of pigeon displays (puffing, cooing,
+turning), and earns a rematch with the rival who beat him.
 
 - Setting: a medieval Emilia-Romagna populated by animals, starting in Modena
 - View: isometric
