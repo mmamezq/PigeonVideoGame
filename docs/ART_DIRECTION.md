@@ -14,6 +14,8 @@ Document the color palette, lighting style, and atmosphere.
 
 ## Characters and animation
 
+> **Combat (temporary note, 2026-11-15):** Combat depends on reading the opponent's body. Wing positions, body bracing and attack warnings must be readable from the game camera without text or colored overlays. The first prototype uses plain placeholder shapes with moving wings to test this before any real art. The tentative final look is colorful, detailed and roughly isometric. See `COMBAT_STATUS.md`.
+
 Define the pigeon designs, animation style, scale, and readability requirements.
 
 ## Environments and interface

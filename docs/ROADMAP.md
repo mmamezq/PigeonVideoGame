@@ -1,12 +1,16 @@
 # Roadmap
 
+**Current focus:** Phase 1 → 2. Engine chosen; next up is a small 2D combat prototype to test whether pigeon fighting feels good before anything else is built.
+
 ## Phase 1: Concept
 
 - Define the high concept and core gameplay loop.
-- Choose the game engine and target platform.
+- ~~Choose the game engine~~ (Godot 4, 2026-11-15) and target platform.
 - Establish the visual direction.
 
 ## Phase 2: Prototype
+
+> **Combat (temporary note, 2026-11-15):** The prototype is a 2D combat test built in small steps: arena and movement, then the enemy wing-slap warning, then dodging, attack angles, one full duel, and a two-person playtest that decides whether the combat core is worth keeping. Dominance displays come only after that. See `COMBAT_STATUS.md` for the step-by-step plan.
 
 - Build a playable movement prototype.
 - Test the core mechanic.

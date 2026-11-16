@@ -16,6 +16,8 @@ Describe how the player should feel while playing.
 
 ## Mechanics
 
+> **Combat (temporary note, 2026-11-15):** Combat is deliberate one-on-one dueling, closer to Dark Souls than to a fast brawler. The pigeon fights with wing slaps, beak pecks and jump kicks; every attack has a visible warning, a short hit window and a recovery where it's open to punishment. The left stick moves and the right stick turns the body, so facing matters for both attack and defense. Dominance displays (chest puff, coo, spinning in place) may come later, only once physical combat is proven fun. Nothing here is final; see `COMBAT_STATUS.md`.
+
 - Movement:
 - Abilities:
 - Challenges:
